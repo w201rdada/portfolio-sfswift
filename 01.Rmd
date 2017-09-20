@@ -25,3 +25,5 @@ There are limitations to this research. Courses and content, as well as the data
 Overall, this research will provide important insights into defining and identifying ways to mitigate the gender disparity in STEM degrees. 
 
 1. NSF 2014 https://www.nsf.gov/statistics/2017/nsf17310/digest/fod-women/computer-sciences.cfm
+
+University examines students' course paths: degree completions increase
