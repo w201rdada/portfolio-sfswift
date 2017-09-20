@@ -1,24 +1,27 @@
-# My first cool idea {#slug-one}
+# The Path to STEM {#STEM-path}
 
 #### Keywords
 
-yaba, daba, do
+STEM, STEM courses, gender disparity
 
-## A beginning.
+## Gender Disparity in STEM
 
-Chartreuse next level beard, gochujang vexillologist letterpress meggings.  Godard in  vero, raw denim asymmetrical small batch shabby chic.  Four loko id  actually, pug sartorial sustainable twee live-edge ea chartreuse typewriter disrupt ut direct trade  accusamus.  Nesciunt hoodie live-edge hell of cred, man braid ex mixtape tumblr odio skateboard 8-bit.  Cold-pressed portland nesciunt schlitz organic, lyft bespoke keffiyeh jianbing migas plaid.  Aute  delectus id  master cleanse migas.  Assumenda enamel pin man braid tumblr, four dollar toast YOLO selfies pitchfork tacos kale chips cronut hot chicken.
+How is it that about half of all science and engineering degrees are awarded to women, but only 18% of undergraduate degrees in computer science are awarded to women^[1]? What causes this huge gender gap in some STEM (Science, Technolocy, Engineering and Math) fields, but not others? Courses may be one factor in this problem. Intuitively, a student's courses would impact their choice of major. The study of these "course paths" could show patterns of courses that are more or less likely to lead a student to majoring in a STEM field. These course paths could vary based on a student's gender and other demographics, some leading to a more positive outcome (staying in STEM) or not (leaving STEM).
 
-## A middle.
+## Analysis of Course Paths
 
-Deep v accusamus fingerstache tempor kickstarter, sunt banjo tumeric franzen irure  beard af velit  meditation kogi.  Keffiyeh fam shoreditch voluptate  pork belly.  Trust fund vape fixie, dolor  lomo exercitation cardigan.  Meggings hot chicken chartreuse, health goth 3 wolf moon lumbersexual deep v et celiac art party.  Keffiyeh magna mlkshk drinking vinegar, tbh mollit  thundercats heirloom health goth kale chips kitsch gochujang chambray aute  +1.  Heirloom ugh chicharrones franzen locavore swag.  Hexagon man braid lomo, gentrify elit shoreditch flexitarian single-origin coffee gochujang kitsch nihil yuccie mlkshk.
+Universities keep extensive records on students, their courses, their grades, and demographic information. These data could be utilized to track the movement through courses of undergraduate students who intend to study a STEM field (e.g., pre-engineering, pre-bio, etc.). Intended major is a data point often collected by college at the time of application. Focusing on students who intend to study STEM will allows us to hone in on course tracks with the desired outcome being a STEM degree, and whether or not those paths actually lead to this outcome.
 
-<!-- ...or include images directly from the web. Cite your sources! -->
-```{r machine-learning,echo=FALSE,fig.cap='[xkcd: Machine Learning](https://xkcd.com/1838/)',fig.align='center',out.width='50%'}
-knitr::include_graphics('https://imgs.xkcd.com/comics/machine_learning.png')
-```
+This analysis will be preformed for STEM as a whole, and for specific STEM fields, such as Psychology/biosciences/social sciences, Engineering, Computer sciences, Mathematics and statistics, Physics, and Economics. Course paths will be compared across fields to find key similarities and differences, which could provide important insight on why some STEM fields are more gender-balanced than others.
 
-Commodo mustache pinterest yr, nostrud nesciunt esse  photo booth.  Keytar synth mlkshk, ullamco veniam sed laboris  seitan velit  live-edge fam gastropub.  Ad mumblecore nihil messenger bag williamsburg occaecat.  Bushwick pickled ullamco, keytar letterpress vice chillwave cillum.  Voluptate  listicle irure  food truck coloring book shoreditch.  Before they sold out four dollar toast stumptown single-origin coffee, retro nostrud veniam dreamcatcher street art subway tile sed pabst hoodie copper mug.  Everyday carry seitan vaporware gastropub etsy, freegan ramps hashtag vegan.
+Further analysis will be conducted on the course demographics to determine where the gender-disparity begins, as well as other profiling information that may be relevant. Student grades, the number of classes taken together, and particular class pairings will be analyzed for their impact on continuation in STEM. This data will be analyzed across specific groups of interest, such as by gender, age or ethnicity, to see if different groups have varying outcomes across course paths.
 
-## An end.
+## Applications and Limitations
 
-90's salvia echo park voluptate, ennui pitchfork church-key photo booth pug aesthetic offal.  Jianbing lomo disrupt before they sold out umami.  Sapiente in  swag yr leggings, selfies distillery fap enamel pin elit aliquip listicle organic master cleanse pug.  La croix coloring book cray, vice ullamco cornhole whatever copper mug neutra pour-over vinyl kogi incididunt tilde gastropub.  Prism veniam VHS, sustainable ea meh viral duis.  Hell of health goth 8-bit microdosing sed keffiyeh.  Laboris  marfa hell of chartreuse celiac poutine keytar, iceland scenester enim nihil man bun church-key forage fam.
+Generally, this information will further define the gender disparity in STEM. On a more applicable level, equipping student advisors with this information would help advisors make better course recommendations to students. This information can identify "trouble" courses. With further analysis of course features, these trouble courses can be redesigned to promote continuation in STEM. 
+
+There are limitations to this research. Courses and content, as well as the data points each university collects, vary across universities, so data cannot be easily aggregated and must be examined on the university level. Futhermore, specific course features should be added, such as how group-oriented the work is. Even this can vary greatly within a university, from professor to professor, but additional information from course evaluations or professor reviews could fill this gap. 
+
+Overall, this research will provide important insights into defining and identifying ways to mitigate the gender disparity in STEM degrees. 
+
+1. NSF 2014 https://www.nsf.gov/statistics/2017/nsf17310/digest/fod-women/computer-sciences.cfm
