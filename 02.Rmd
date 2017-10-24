@@ -1,20 +1,15 @@
-# Tracking the Student Lifecycle {#student-tracking}
-
-#### Keywords
-
-continuing education, customer tracking, student lifecycle tracking, student outcomes
-
 ## Surveys on surveys.
 
-I work in professional and continuing education. We survey our students at key points throughout their time with us: at application, at enrollment, course evaluations, at graduation and occassionally as alumni as well. Currently, we produce individual, static reports for each of these survey types for each of our 100+ programs. We have all of this data, from surveys, our databases and our CRM, but we are not using it to it's fullest extent.
+I work in professional and continuing education. We survey our students at key points throughout their time with us: at application, at enrollment, as students through course evaluations, at graduation and as alumni. Currently, we produce individual, static reports for each of these survey types for each of our 100+ programs. We have all of this data, from surveys, our databases and our CRM, but we are not using it to it's fullest extent.
 
 ## Tracking the student lifecycle.
 
+We already have all this data, and we’re collecting more. Each student has a unique, randomly generated ID associated with them in the databases. I propose we include this when we gather the sample lists for our surveys and embed it in the survey data, with all other identifiers removed. When we pull data from our databases, we can include this identifier and then link database data with survey responses.
 
-
-combine all the survey data, and other data to analyze student outcomes - do they come back? are they doing well? are they satisfied? what can we change?
+Once we have this data linked, we can begin writing interactive reports using tools such as Tableau or Vocalize. We can finally view trends over time. We can look at programs and compare them to their overall sector. We can see our enrollment surveys all the way to our exit surveys. Program managers will have more freedom to explore their data, thus making more informed decision about their programs. We can easily see which programs are struggling, when they started struggling, and from there we can make changes to improve them.
 
 ## Better serve our community.
 
-Using the lifecycle data, we can better see where we stand on student satisfaction, job preparation
-Informs the questions above to better serve our students and community
+Using the lifecycle data, we can better see how we are serving our students: from application feedback, to satisfaction with their program, to job outcomes.
+
+This is by no means perfect. Not everyone will respond to our surveys, and we will have gaps in our data. However this will help us to get a more holistic view of our students and their experience - and where we need to make improvements.
