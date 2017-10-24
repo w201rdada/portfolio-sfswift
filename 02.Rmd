@@ -1,3 +1,9 @@
+# Tracking the Student Lifecycle {#student-tracking}
+
+#### Keywords
+
+continuing education, customer tracking, student lifecycle tracking, student outcomes
+
 ## Surveys on surveys.
 
 I work in professional and continuing education. We survey our students at key points throughout their time with us: at application, at enrollment, as students through course evaluations, at graduation and as alumni. Currently, we produce individual, static reports for each of these survey types for each of our 100+ programs. We have all of this data, from surveys, our databases and our CRM, but we are not using it to it's fullest extent.
