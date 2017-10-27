@@ -1,48 +1,44 @@
-# The Path to STEM {#STEM-path}
+# The Path to STEM {#STEM-path} <!--women?-->
 
 #### Keywords
 
-STEM, STEM courses, gender disparity
+STEM, STEM courses, gender disparity <!--add tech keywords-->
 
 ## Gender Disparity in STEM
 
-How is it that about half of all undergraduate science and engineering degrees are awarded to women, but only 18% of undergraduate degrees in computer science are awarded to women^[1]. 
-What causes this huge gender gap in some STEM (Science, Technology, Engineering and Math) fields, but not others. 
-Courses may be one factor in this problem. 
+How is it that about half of all undergraduate science and engineering degrees are awarded to women, but only 18% of undergraduate degrees in computer science are awarded to women^[National Science Foundation. 2014. University examines students' course paths: degree completions increase. https://www.nsf.gov/statistics/2017/nsf17310/digest/fod-women/computer-sciences.cfm]? <!--bibtex-->
+What causes this huge gender gap in some STEM (Science, Technology, Engineering and Math) fields, but not in others? <!--What others?-->
+Courses may be one factor in this problem. <!--Courses where? At university, or earlier?-->
 Intuitively, a student's courses would impact their choice of major. 
 The study of these "course paths" could show patterns of courses that are more or less likely to lead a student to majoring in a STEM field. 
-These course paths could vary based on a student's gender and other demographics, some leading to a positive outcome (staying in STEM) or not (leaving STEM).
+These course paths could vary based on a student's gender and other demographics, some leading to a positive outcome (staying in STEM) or not (leaving STEM). <!--What do you mean when you say STEM? College or career?-->
 
 ## Analysis of Course Paths
 
 Universities keep extensive records on students, their courses, their grades, and demographic information. 
-These data could be utilized to track the movement through courses of undergraduate students who intend to study a STEM field (e.g., pre-engineering, pre-bio, etc.). 
+These data could be utilized to track the movement through courses of undergraduate students who intend to study a STEM field (e.g., pre-engineering, and pre-bio). 
 Intended major is a data point often collected by college at the time of application. 
-Focusing on students who intend to study STEM will allow us to hone in on course tracks with the desired outcome being a STEM degree, and whether or not those paths actually lead to this outcome.
+Focusing on students who intend to study STEM will allow us to hone in on course tracks with the desired outcome being a STEM degree, and whether or not those paths actually lead to this outcome. <!--Why intended, rather than terminal degree?-->
 
-Initially, this analysis will be preformed for STEM as a whole, then for specific STEM fields, such as Psychology/biosciences/social sciences, Engineering, Computer sciences, Mathematics and statistics, Physics, and Economics. 
-Course paths will be compared across fields to find key similarities and differences, which could provide important insight on why some STEM fields are more gender-balanced than others.
+Initially, this analysis will be preformed for STEM as a whole, then for specific STEM fields, such as psychology, biosciences, social sciences, engineering, computer sciences, Mathematics and statistics, physics, and economics. <!--Why not the entire curriculum, then STEM in context?-->
+Course paths will be compared across fields to find key similarities and differences, which could provide important insight on why some STEM fields are more gender-balanced than others. <!--What is your intuition about how course paths affect advancement to a STEM field?-->
 
-Further analysis will be conducted on the course demographics to determine where the gender-disparity begins, such as which classes have a gender disparity and if that disparity increases as the courses advance. 
-Other profiling information that may be relevant would also be examined. 
+Further analysis will be conducted on the course demographics to determine where the gender-disparity begins, such as which classes have a gender disparity and if that disparity increases as the courses advance. <!--Existing literature?-->
+Other profiling information that may be relevant would also be examined. <!--Such as?-->
 Student grades, the number of classes taken together, and particular class pairings will be analyzed for their impact on continuation in STEM. 
-This data will be analyzed across specific groups of interest, such as by gender, age or ethnicity, to see if different groups have varying outcomes across course paths.
+These data will be analyzed across specific groups of interest, such as by gender, age or ethnicity, to see if different groups have varying outcomes across course paths.
 
 ## Applications and Limitations
 
-Generally, this information will further define the gender disparity in STEM. 
-On a more applicable level, these analyses can be extened beyond STEM fields, and equipping student advisors with this information would help advisors make better course recommendations to students and even extended beyond STEM fields. 
-This project could even be expanded into a course recommendation engine that students can use on their own. 
+Generally, this information will further define the gender disparity in STEM. <!--Where did STEM come from?-->
+On a more applicable level, these analyses can be extended beyond STEM fields, and equipping student advisors with this information would help advisors make better course recommendations to students and even extended beyond STEM fields. <!--Students choose their own courseload; could they use your service directly?-->
+This project could even be expanded into a course recommendation engine that students can use on their own. <!--Great!-->
 This information can identify "trouble" courses. 
-With further analysis of course features, these trouble courses can be redesigned to promote continuation in STEM. 
+With further analysis of course features, these trouble courses can be redesigned to promote continuation in STEM. <!--Good idea!-->
 
 There are limitations to this research. 
-Courses and content, as well as the data points each university collects, vary across universities, so data cannot be easily aggregated and must be examined on the university level. 
-Futhermore, specific course features should be added, such as how group-oriented the work is. 
-Even this can vary greatly within a university, from professor to professor, but additional information from course evaluations or professor reviews could fill this gap. 
+Courses and content, as well as the data points each university collects, vary across universities, so data cannot be easily aggregated and must be examined on the university level. <!--Probably better anyway, but how to map similar courses across universities?-->
+Futhermore, specific course features should be added, such as how group-oriented the work is. <!--What is your expectation?-->
+Even this can vary greatly within a university, from professor to professor, but additional information from course evaluations or professor reviews could fill this gap. <!--Clarify gap.-->
 
 Overall, this research will provide important insights into defining and identifying ways to mitigate the gender disparity in STEM degrees. 
-
-1. NSF 2014 https://www.nsf.gov/statistics/2017/nsf17310/digest/fod-women/computer-sciences.cfm
-
-University examines students' course paths: degree completions increase
