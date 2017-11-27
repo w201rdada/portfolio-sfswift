@@ -14,7 +14,6 @@ bookdown::gitbook:
         <li><a href="https://github.com/sfswift" target="blank">GitHub</a></li>
         <li><a href="https://www.ischool.berkeley.edu/people/sullivan-swift" target="blank">UC Berkeley</a></li>
         <li><a href="https://www.linkedin.com/in/sullivanswift/" target="blank">LinkedIn</a></li>
-        <li><a href="https://www.wired.com/2013/02/friendster-autopsy/" target="blank">Friendster</a></li>        
     sharing:
       facebook: no
       twitter: no
