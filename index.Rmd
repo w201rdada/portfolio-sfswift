@@ -25,9 +25,9 @@ library(magrittr)
 #knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
 ```
 
-### The Path to STEM
+### The Path to STEM {-}
 
-### Tracking the Student Lifecycle
+### Tracking the Student Lifecycle {-}
 
 ## About the author {-}
 
