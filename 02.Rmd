@@ -1,6 +1,6 @@
 # Tracking the Student Lifecycle {#student-tracking} {-}
 
-#### Keywords
+#### Keywords {-}
 
 continuing education, customer tracking, student lifecycle tracking, student outcomes
 
